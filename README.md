@@ -35,6 +35,12 @@ I'm **[`Vishnu S`](https://www.linkedin.com/in/vishnu-s-1b4672313/)** – an asp
       <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" />
       <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" />
+      <img src="https://img.shields.io/badge/PortSwigger-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white&color=000000" alt="PortSwigger" />
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&color=000000" alt="TryHackMe" />
+      <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black&color=000000" alt="Hack The Box" />
+      <img src="https://img.shields.io/badge/VulnHub-007ACC?style=for-the-badge&logo=internet-explorer&logoColor=white&color=000000" alt="VulnHub" />
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white&color=000000" alt="SQL" />
+
   </div>
 </div>
 
