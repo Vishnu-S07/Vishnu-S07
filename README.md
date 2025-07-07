@@ -46,8 +46,6 @@ I'm **[`Vishnu S`](https://www.linkedin.com/in/vishnu-s-1b4672313/)** – an asp
   <a href="https://github.com/Vishnu-S07/Vishnu-S07/blob/main/certificates/CPT%20VISHNU%20.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Certified_Penetration_Tester-Certified-blue?style=for-the-badge&color=000000" alt="Certified Penetration Tester" />
 </a>
-  <img src="https://img.shields.io/badge/Mastercard_Job_Simulation-Completed-blue?style=for-the-badge&color=000000" />
-  <img src="https://img.shields.io/badge/QNAYDS_Intern-Completed-orange?style=for-the-badge&color=000000" />
 </div>
 
 ---
