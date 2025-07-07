@@ -28,7 +28,6 @@ I'm **[`Vishnu S`](https://www.linkedin.com/in/vishnu-s-1b4672313/)** – an asp
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" />
       <img src="https://img.shields.io/badge/Nmap-218bff?style=for-the-badge&logo=nmap&color=000000" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" />
@@ -39,8 +38,7 @@ I'm **[`Vishnu S`](https://www.linkedin.com/in/vishnu-s-1b4672313/)** – an asp
       <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&color=000000" alt="TryHackMe" />
       <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black&color=000000" alt="Hack The Box" />
       <img src="https://img.shields.io/badge/VulnHub-007ACC?style=for-the-badge&logo=internet-explorer&logoColor=white&color=000000" alt="VulnHub" />
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white&color=000000" alt="SQL" />
-
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=000000" alt="MySQL" />
   </div>
 </div>
 
