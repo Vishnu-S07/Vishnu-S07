@@ -63,12 +63,12 @@ I perform full-stack pentesting — from exploiting web application vulnerabilit
 
 <h2 id="Projects" align='left'>🚧 Projects</h2>
 
-| **Project**                              | **Description**                                                  |
-|------------------------------------------|------------------------------------------------------------------|
-| **[Recomo Website](https://github.com/)** | Online Movie Recommendation System using PHP & MySQL             |
-| **[HTB Writeups](https://github.com/)**   | My solutions to Hack The Box machines with detailed breakdowns   |
-| **[Linux Bash Scripts](https://github.com/)** | Custom scripts for automation and enumeration in Kali Linux      |
+| **Project**                                                   | **Description**                                                                                      |
+|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **[VAPT RedTeam Project](https://github.com/Vishnu-S07/vapt-report)** | A vulnerability assessment and penetration testing project identifying and exploiting real-world flaws like XSS, SQLi, and Clickjacking. |
 
 ---
+
+
 
 > 📫 **Let’s connect** – Open for collaborations, CTF teams, and learning together!
