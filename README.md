@@ -65,7 +65,7 @@ I perform full-stack pentesting — from exploiting web application vulnerabilit
 
 | **Project**                                                   | **Description**                                                                                      |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| **[VAPT RedTeam Project](https://github.com/Vishnu-S07/vapt-report)** | A vulnerability assessment and penetration testing project identifying and exploiting real-world flaws like XSS, SQLi, and Clickjacking. |
+| **[VAPT RedTeam Project](https://github.com/Vishnu-S07/vapt-reports/tree/main/RedTeam)** | A vulnerability assessment and penetration testing project identifying and exploiting real-world flaws like XSS, SQLi, and Clickjacking. |
 
 ---
 
